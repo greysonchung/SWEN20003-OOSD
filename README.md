@@ -4,10 +4,10 @@
 - External Library: The Basic Academic Graphical Engine Library (Bagel)
 
 ## Assignment 1 
-Design and create a simulation of a fictional universe. For Assignment 1, we will create the basis of a larger simulation for Assignment 2
+- Design and create a simulation of a fictional universe. For Assignment 1, we will create the basis of a larger simulation for Assignment 2
 
 ## Assignment 2
-Create a graphical simulation of a world and its inhabitants, continuing from Assignment 1
+- Create a graphical simulation of a world and its inhabitants, continuing from Assignment 1
 
 ## Simulation Overview
 Shadow Life is a graphical simulation of a world inhabited by creatures called gatherers. Their purpose in life is to gather fruit from the trees, and deposit them at stockpiles. Once they have gathered all the fruit from their trees, they rest in front of fences.
